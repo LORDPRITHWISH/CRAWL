@@ -73,3 +73,18 @@ console.log('Screenshot saved as screenshot.png');
 
 await browser.close();
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
